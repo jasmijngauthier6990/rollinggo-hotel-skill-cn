@@ -5,3 +5,4 @@ description = "全球酒店预订&低价监控提醒Skill，200万+精选酒店�
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# match the style used in the rest of the module
